@@ -1,0 +1,9 @@
+.home-page {
+    color: rgb(0, 0, 0);
+}
+
+#title-greeting {
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 1.4em;
+}

@@ -1,0 +1,49 @@
+body {
+  margin-top: 10px;
+  margin-left: 0;
+  text-decoration: none;
+  min-width: 320px;
+  width: 100%;
+}
+
+.App {
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+a:hover {
+  color: rgb(143, 57, 71);
+  transition: 0.3s;
+}
+
+
+.App h1 {
+  background-color: black;
+  color: white;
+  margin: 1px;
+  margin-right: 1px;
+  padding-left: .4em;
+  padding-bottom: .4em;
+  padding-top: .4em;
+  padding-right: .4em;
+  font-size: 1.4em;
+}
+
+.nav-section {
+  color: rgb(0, 0, 0);
+  margin-left: 1px;
+  position: fixed;
+  text-decoration: none;
+  border: 1px solid black;
+}
+
+
+.main-sections {
+  margin-top: 2em;
+  margin-left: .5em;
+}
